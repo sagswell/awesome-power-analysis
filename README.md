@@ -57,6 +57,7 @@ Inspired by [Awesome GIS](https://github.com/sshuair/awesome-gis).
 - [RTS 2019 update](https://ieeexplore.ieee.org/document/8753693) - RTS Update
 - [pyiso](https://github.com/WattTime/pyiso) - pyiso provides Python client libraries for ISO and other power grid data sources. It powers the WattTime API (https://api.watttime.org/), among other things.
 - [dsgrid](https://www.nrel.gov/analysis/electrification-futures.html) - a new model developed for the EFS and in recognition of a general need for a more detailed understanding of electricity load. dsgrid utilizes a suite of bottom-up engineering models across all major sectors to develop hourly electricity consumption profiles for every county in the contiguous United States.
+- [comtrade-sample-files](https://github.com/sagswell/comtrade-sample-files) - Four synthetic COMTRADE (IEEE C37.111-2013) fault and power-quality records (.cfg/.dat and .cff), CC0.
 
 ## Benchmarks
 - [Power Grid Lib](https://power-grid-lib.github.io/) - Benchmarks for Validating Power System Algorithms
@@ -66,6 +67,7 @@ This benchmark library is curated and maintained by the IEEE PES Task Force on B
 ## Visualization
 - [MAGMA](https://github.com/NREL/MAGMA) - Multi-area Grid Metrics Analyzer
 - [ac-powerflow-vis](https://github.com/ccoffrin/ac-powerflow-vis) - Visualizations of AC Power Flow over a Line
+- [SagSwell](https://sagswell.com) - Browser-based COMTRADE viewer: waveforms, IEEE 1159 sags/swells, harmonics, phasors and ITIC curve. Free tier.
 
 ## Modeling & Optimization
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)
